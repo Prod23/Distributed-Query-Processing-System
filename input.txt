@@ -1,0 +1,3 @@
+/Users/rishirajdatta7/Desktop/multiprocessing_python/sample_dataset/catalog_sales.csv/part-00004-59005ab2-7a38-4a65-86ae-cf251f10e440-c000.csv
+/Users/rishirajdatta7/Desktop/multiprocessing_python/sample_dataset/date_dim.csv/part-00000-0032863d-b6db-423c-aa96-03fc6fa2dee7-c000.csv
+1 2 3
