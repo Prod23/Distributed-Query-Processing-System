@@ -24,11 +24,6 @@ Command 3:
 
 total_distinct_word_count time_taken_to_execute_command_in_millis
 
-Unset
-
-Unset
-
-Unset
 Command 4:
 
 word1 frequency1 word2 frequency2 ... word100 frequency100
